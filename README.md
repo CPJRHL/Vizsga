@@ -1,0 +1,2 @@
+# Vizsga
+GUI Számológép
